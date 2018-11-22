@@ -1,0 +1,32 @@
+img { 
+        width: 100%;
+}
+
+.options {
+    display:grid;
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 10px;
+}
+body {
+    background-color: black;
+    margin: 30px;
+
+}
+h1 {
+    text-align: center;
+    color: aliceblue;
+    font-size: 56px;
+    padding: 30px;
+}
+
+p {
+    text-align: center;
+    color: greenyellow;
+    font-size: 48px
+    
+}
+button {
+    font-size: 40px;
+    text-align: center;
+    padding: 20px;
+}
