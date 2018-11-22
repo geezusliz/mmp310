@@ -1,0 +1,39 @@
+img { 
+        width: 100%;
+        margin: 40px 20px 20px 0px ;
+        size;
+    
+}
+
+.options {
+    display:grid;
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 30px;
+}
+body {
+    background-color: lightskyblue;
+    margin: 30px;
+    
+}
+h1 {
+    text-align: center;
+    color: forestgreen;
+    font-size: 72px;
+    padding: 30px;
+    font-family: fantasy bold;
+    font: bold;
+}
+
+p {
+    text-align: center;
+    color: crimson;
+    font-size: 48px;
+    font-family: cursive;
+    
+}
+button {
+    font-size: 40px;
+    text-align: center;
+    padding: 20px;
+}
+
