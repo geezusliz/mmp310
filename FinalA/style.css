@@ -1,0 +1,41 @@
+h1 {
+    text-align: center;
+    font-size: 100px;
+    font-family: cursive;
+    color: #ff1919;
+}
+h2 {
+    text-align: center;  
+    font-size: 42px;
+    font-family: sans-serif;
+    color: black;
+}
+input {
+    text-align: center;
+    align-self: center;
+    font-family:sans-serif;
+}
+body {
+        background-color: darkgray;
+}
+
+button {
+    font-size: 15px;
+    align-self: center;
+    font-family: inherit;
+}
+input {
+    width: 300px;
+    margin: 25px;
+    
+}
+
+#search {
+    text-align: center;
+}
+
+.video {
+ height: 500px;
+    width: 350px;
+
+}
